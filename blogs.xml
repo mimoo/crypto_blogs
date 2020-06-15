@@ -163,7 +163,7 @@
         <outline text="Adam Caudill" title="Adam Caudill" type="rss" xmlUrl="https://adamcaudill.com/feed/" htmlUrl="https://adamcaudill.com/"/>
         <outline text="alxdavids" title="alxdavids" type="rss" xmlUrl="https://alxdavids.xyz/rss/" htmlUrl="https://alxdavids.xyz/"/>
         <outline text="Blog: Ivan Ristić" title="Blog: Ivan Ristić" type="rss" xmlUrl="https://blog.ivanristic.com/atom.xml" htmlUrl="http://blog.ivanristic.com/"/>
-
+        <outline text="fdblog" title="Francesco Dell' Anna" type="rss" xmlUrl="https://fdblog.xyz/feed/" htmlUrl="https://fdblog.xyz/"/>
 
         <outline text="Open Whisper Systems Blog" title="Open Whisper Systems Blog" type="rss" xmlUrl="https://whispersystems.org/blog/rss.xml" htmlUrl="http://www.whispersystems.org/blog/"/>
         <outline text="OpenSSL Blog" title="OpenSSL Blog" type="rss" xmlUrl="https://www.openssl.org/blog/atom.xml" htmlUrl="https://www.openssl.org/blog/"/>
