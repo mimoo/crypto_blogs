@@ -56,6 +56,7 @@
 		<outline text="OpenSSL Blog" title="OpenSSL Blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.openssl.org/blog/atom.xml"/>
 		<outline text="Signal Blog" title="Signal Blog" description="" type="rss" version="RSS" htmlUrl="https://signal.org/blog/" xmlUrl="https://whispersystems.org/blog/rss.xml"/>
 		<outline text="Daan Sprenkels" title="Daan Sprenkels" description="" type="rss" version="RSS" htmlUrl="https://dsprenkels.com/" xmlUrl="https://dsprenkels.com/feed.xml"/>
+		<outline text="Henry de Valence" title="Henry de Valence" description="" type="rss" version="RSS" htmlUrl="https://hdevalence.ca/blog/" xmlUrl="https://hdevalence.ca/blog/rss.xml"/>
 		<outline text="Bristol Cryptography Blog" title="Bristol Cryptography Blog" description="" type="rss" version="RSS" htmlUrl="http://bristolcrypto.blogspot.com/" xmlUrl="http://bristolcrypto.blogspot.com/feeds/posts/default"/>
 		<outline text="top scoring links : crypto" title="top scoring links : crypto" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/crypto/top?t=month" xmlUrl="https://www.reddit.com/r/crypto/top.rss?t=month"/>
 	</outline>
