@@ -5,60 +5,62 @@
 	</head>
 <body>
 	<outline text="Cryptography" title="Cryptography">
-		<outline text="Hanno's blog" title="Hanno's blog" description="" type="rss" version="RSS" htmlUrl="https://blog.hboeck.de/" xmlUrl="https://blog.hboeck.de/feeds/index.rss2"/>
-		<outline text="BrainOverfl0w" title="BrainOverfl0w" description="" type="rss" version="RSS" htmlUrl="https://www.fredericjacobs.com/blog/" xmlUrl="http://www.fredericjacobs.com/blog/feed.xml"/>
-		<outline text="Into the symmetry" title="Into the symmetry" description="" type="rss" version="RSS" htmlUrl="http://blog.intothesymmetry.com/" xmlUrl="http://intothesymmetry.blogspot.com/feeds/posts/default"/>
-		<outline text="Cryptosense" title="Cryptosense" description="" type="rss" version="RSS" htmlUrl="https://cryptosense.com/" xmlUrl="https://cryptosense.com/feed/"/>
-		<outline text="thái" title="thái" description="" type="rss" version="RSS" htmlUrl="http://vnhacker.blogspot.com/" xmlUrl="http://vnhacker.blogspot.com/feeds/posts/default"/>
-		<outline text="David Wong" title="David Wong" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCY1UW1QQZ2xzdBEEep8R0nA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1UW1QQZ2xzdBEEep8R0nA"/>
-		<outline text="kel.bz" title="kel.bz" description="" type="rss" version="RSS" htmlUrl="https://kel.bz/" xmlUrl="https://kel.bz/index.xml"/>
-		<outline text="The Cloudflare Blog" title="The Cloudflare Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.cloudflare.com/" xmlUrl="https://blog.cloudflare.com/rss/"/>
-		<outline text="Journal of Politically Incorrect Research and Scientific Apartheid – a.k.a. Applied Cryptography Blog by Nicolas Courtois" title="Journal of Politically Incorrect Research and Scientific Apartheid – a.k.a. Applied Cryptography Blog by Nicolas Courtois" description="" type="rss" version="RSS" htmlUrl="http://blog.bettercrypto.com/" xmlUrl="http://blog.bettercrypto.com/?feed=rss2"/>
-		<outline text="Bulletproof TLS Newsletter" title="Bulletproof TLS Newsletter" description="" type="rss" version="RSS" htmlUrl="https://www.feistyduck.com/bulletproof-tls-newsletter/" xmlUrl="https://www.feistyduck.com/bulletproof-tls-newsletter/feed"/>
-		<outline text="Financial Cryptography" title="Financial Cryptography" description="" type="rss" version="RSS" htmlUrl="http://financialcryptography.com/" xmlUrl="https://financialcryptography.com/index.rdf"/>
+		<outline text="A Few Thoughts on Cryptographic Engineering" title="A Few Thoughts on Cryptographic Engineering" description="" type="rss" version="RSS" htmlUrl="https://blog.cryptographyengineering.com/" xmlUrl="http://blog.cryptographyengineering.com/feeds/posts/default"/>
+		<outline text="Adam Caudill" title="Adam Caudill" description="" type="rss" version="RSS" htmlUrl="https://adamcaudill.com/" xmlUrl="https://adamcaudill.com/feed/"/>
+		<outline text="Blog" title="Blog" description="" type="rss" version="RSS" htmlUrl="http://www.zeroknowledgeblog.com/index.php/blog" xmlUrl="http://www.zeroknowledgeblog.com/index.php/blog?format=feed&amp;type=rss"/>
 		<outline text="Blogs on" title="Blogs on" description="" type="rss" version="RSS" htmlUrl="http://esl.cs.brown.edu/blog/" xmlUrl="http://esl.cs.brown.edu/blog/index.xml"/>
-		<outline text="The Call of the Open Sidewalk pgpfan" title="The Call of the Open Sidewalk pgpfan" description="" type="rss" version="RSS" htmlUrl="https://articles.59.ca/" xmlUrl="https://articles.59.ca/feed.php?num=10&amp;linkto=current&amp;content=html&amp;ns=pgpfan"/>
-		<outline text="malb::blog" title="malb::blog" description="" type="rss" version="RSS" htmlUrl="https://martinralbrecht.wordpress.com/" xmlUrl="https://martinralbrecht.wordpress.com/feed/"/>
-		<outline text="Tony Arcieri" title="Tony Arcieri" description="" type="rss" version="RSS" htmlUrl="https://tonyarcieri.com/" xmlUrl="https://tonyarcieri.com/feed"/>
-		<outline text="Kudelski Security Research" title="Kudelski Security Research" description="" type="rss" version="RSS" htmlUrl="https://research.kudelskisecurity.com/" xmlUrl="https://research.kudelskisecurity.com/feed/"/>
-		<outline text="Real World Cryptographers Podcast" title="Real World Cryptographers Podcast" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://feeds.buzzsprout.com/1393207.rss"/>
+		<outline text="BrainOverfl0w" title="BrainOverfl0w" description="" type="rss" version="RSS" htmlUrl="https://www.fredericjacobs.com/blog/" xmlUrl="http://www.fredericjacobs.com/blog/feed.xml"/>
+		<outline text="Bristol Cryptography Blog" title="Bristol Cryptography Blog" description="" type="rss" version="RSS" htmlUrl="http://bristolcrypto.blogspot.com/" xmlUrl="http://bristolcrypto.blogspot.com/feeds/posts/default"/>
+		<outline text="Bulletproof TLS Newsletter" title="Bulletproof TLS Newsletter" description="" type="rss" version="RSS" htmlUrl="https://www.feistyduck.com/bulletproof-tls-newsletter/" xmlUrl="https://www.feistyduck.com/bulletproof-tls-newsletter/feed"/>
+		<outline text="Command Line Fanatic" title="Command Line Fanatic" description="" type="rss" version="RSS" htmlUrl="http://www.commandlinefanatic.com/index.html" xmlUrl="http://commandlinefanatic.com/rss.xml"/>
 		<outline text="cr.yp.to blog" title="cr.yp.to blog" description="" type="rss" version="RSS" htmlUrl="http://blog.cr.yp.to/" xmlUrl="http://blog.cr.yp.to/feed.application=xml"/>
+		<outline text="Cryptography FM" title="Cryptography FM" description="" type="rss" version="RSS" htmlUrl="https://www.cryptography.fm/" xmlUrl="https://www.cryptography.fm/rss"/>
+		<outline text="Cryptography in The Coinbase Blog on Medium" title="Cryptography in The Coinbase Blog on Medium" description="" type="rss" version="RSS" htmlUrl="https://blog.coinbase.com/tagged/cryptography?source=rss----c114225aeaf7--cryptography" xmlUrl="https://medium.com/feed/the-coinbase-blog/tagged/cryptography"/>
+		<outline text="Cryptography Services" title="Cryptography Services" description="" type="rss" version="RSS" htmlUrl="https://cryptoservices.github.io/" xmlUrl="http://cryptoservices.github.io/feed.xml"/>
+		<outline text="Cryptosense" title="Cryptosense" description="" type="rss" version="RSS" htmlUrl="https://cryptosense.com/" xmlUrl="https://cryptosense.com/feed/"/>
+		<outline text="Daan Sprenkels" title="Daan Sprenkels" description="" type="rss" version="RSS" htmlUrl="https://dsprenkels.com/" xmlUrl="https://dsprenkels.com/feed.xml"/>
+		<outline text="David Wong" title="David Wong" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCY1UW1QQZ2xzdBEEep8R0nA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1UW1QQZ2xzdBEEep8R0nA"/>
+		<outline text="David Wong | Cryptologie | HTML" title="David Wong | Cryptologie | HTML" description="" type="rss" version="RSS" htmlUrl="http://www.cryptologie.net/" xmlUrl="http://cryptologie.net/feed/index/html"/>
 		<outline text="Dhole Moments" title="Dhole Moments" description="" type="rss" version="RSS" htmlUrl="https://soatok.blog/" xmlUrl="https://soatok.blog/feed/"/>
 		<outline text="Filippo.io" title="Filippo.io" description="" type="rss" version="RSS" htmlUrl="https://blog.filippo.io/" xmlUrl="https://blog.filippo.io/rss/"/>
-		<outline text="The blog of Christopher A. Wood" title="The blog of Christopher A. Wood" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://chris-wood.github.io/atom.xml"/>
-		<outline text="Trail of Bits Blog" title="Trail of Bits Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.trailofbits.com/" xmlUrl="http://blog.trailofbits.com/feed/"/>
-		<outline text="Adam Caudill" title="Adam Caudill" description="" type="rss" version="RSS" htmlUrl="https://adamcaudill.com/" xmlUrl="https://adamcaudill.com/feed/"/>
-		<outline text="Pomcor" title="Pomcor" description="" type="rss" version="RSS" htmlUrl="https://pomcor.com/" xmlUrl="https://pomcor.com/feed/"/>
-		<outline text="METASTATE" title="METASTATE" description="" type="rss" version="RSS" htmlUrl="https://research.metastate.dev/" xmlUrl="https://research.metastate.dev/rss/"/>
-		<outline text="" title="" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://keymaterial.net/wp-json/wp/v2/posts/46"/>
-		<outline text="Shevek's crypto stuff" title="Shevek's crypto stuff" description="" type="rss" version="RSS" htmlUrl="http://crypto.anarres.info/" xmlUrl="https://crypto.anarres.info/feed.xml"/>
-		<outline text="Command Line Fanatic" title="Command Line Fanatic" description="" type="rss" version="RSS" htmlUrl="http://www.commandlinefanatic.com/index.html" xmlUrl="http://commandlinefanatic.com/rss.xml"/>
-		<outline text="Light Blue Touchpaper" title="Light Blue Touchpaper" description="" type="rss" version="RSS" htmlUrl="https://www.lightbluetouchpaper.org/" xmlUrl="http://www.lightbluetouchpaper.org/feed/"/>
-		<outline text="Insane Coding" title="Insane Coding" description="" type="rss" version="RSS" htmlUrl="http://insanecoding.blogspot.com/" xmlUrl="http://insanecoding.blogspot.com/feeds/posts/default"/>
-		<outline text="Tim Taubert" title="Tim Taubert" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://timtaubert.de/atom.xml"/>
-		<outline text="Underhanded Crypto Contest" title="Underhanded Crypto Contest" description="" type="rss" version="RSS" htmlUrl="https://underhandedcrypto.com/" xmlUrl="https://underhandedcrypto.com/feed/"/>
-		<outline text="A Few Thoughts on Cryptographic Engineering" title="A Few Thoughts on Cryptographic Engineering" description="" type="rss" version="RSS" htmlUrl="https://blog.cryptographyengineering.com/" xmlUrl="http://blog.cryptographyengineering.com/feeds/posts/default"/>
-		<outline text="ImperialViolet" title="ImperialViolet" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.imperialviolet.org/iv-rss.xml"/>
-		<outline text="Rot256 : Cryptography &amp; Other Random Bits." title="Rot256 : Cryptography &amp; Other Random Bits." description="" type="rss" version="RSS" htmlUrl="https://rot256.io/" xmlUrl="https://rot256.io/index.xml"/>
-		<outline text="Random Oracle" title="Random Oracle" description="" type="rss" version="RSS" htmlUrl="https://randomoracle.wordpress.com/" xmlUrl="https://randomoracle.wordpress.com/feed/"/>
-		<outline text="On Cryptography and Security" title="On Cryptography and Security" description="" type="rss" version="RSS" htmlUrl="https://blog.susanka.eu/" xmlUrl="https://blog.susanka.eu/rss/"/>
-		<outline text="Cryptography Services" title="Cryptography Services" description="" type="rss" version="RSS" htmlUrl="https://cryptoservices.github.io/" xmlUrl="http://cryptoservices.github.io/feed.xml"/>
-		<outline text="Zero Knowledge" title="Zero Knowledge" description="" type="rss" version="RSS" htmlUrl="https://www.zeroknowledge.fm/" xmlUrl="https://www.zeroknowledge.fm/rss"/>
-		<outline text="Little Man In My Head" title="Little Man In My Head" description="" type="rss" version="RSS" htmlUrl="https://littlemaninmyhead.wordpress.com/" xmlUrl="https://littlemaninmyhead.wordpress.com/feed/"/>
+		<outline text="Financial Cryptography" title="Financial Cryptography" description="" type="rss" version="RSS" htmlUrl="http://financialcryptography.com/" xmlUrl="https://financialcryptography.com/index.rdf"/>
 		<outline text="Frank DENIS random thoughts." title="Frank DENIS random thoughts." description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://00f.net/atom.xml"/>
-		<outline text="David Wong | Cryptologie | HTML" title="David Wong | Cryptologie | HTML" description="" type="rss" version="RSS" htmlUrl="http://www.cryptologie.net/" xmlUrl="http://cryptologie.net/feed/index/html"/>
-		<outline text="tobi.rocks" title="tobi.rocks" description="" type="rss" version="RSS" htmlUrl="https://tobi.rocks/" xmlUrl="https://tobi.rocks/feed/"/>
-		<outline text="Cryptography FM" title="Cryptography FM" description="" type="rss" version="RSS" htmlUrl="https://www.cryptography.fm/" xmlUrl="https://www.cryptography.fm/rss"/>
+		<outline text="Hanno's blog" title="Hanno's blog" description="" type="rss" version="RSS" htmlUrl="https://blog.hboeck.de/" xmlUrl="https://blog.hboeck.de/feeds/index.rss2"/>
+		<outline text="Henry de Valence :: Blog" title="Henry de Valence :: Blog" description="" type="rss" version="RSS" htmlUrl="http://www.hdevalence.ca/" xmlUrl="https://hdevalence.ca/blog/rss.xml"/>
 		<outline text="IACR News Updates" title="IACR News Updates" description="" type="rss" version="RSS" htmlUrl="https://www.iacr.org/news/" xmlUrl="http://www.iacr.org/news/rss"/>
-		<outline text="lvh" title="lvh" description="" type="rss" version="RSS" htmlUrl="https://www.lvh.io/" xmlUrl="https://www.lvh.io/rss.xml"/>
+		<outline text="ImperialViolet" title="ImperialViolet" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.imperialviolet.org/iv-rss.xml"/>
+		<outline text="Insane Coding" title="Insane Coding" description="" type="rss" version="RSS" htmlUrl="http://insanecoding.blogspot.com/" xmlUrl="http://insanecoding.blogspot.com/feeds/posts/default"/>
+		<outline text="Into the symmetry" title="Into the symmetry" description="" type="rss" version="RSS" htmlUrl="http://blog.intothesymmetry.com/" xmlUrl="http://intothesymmetry.blogspot.com/feeds/posts/default"/>
+		<outline text="Journal of Politically Incorrect Research and Scientific Apartheid – a.k.a. Applied Cryptography Blog by Nicolas Courtois" title="Journal of Politically Incorrect Research and Scientific Apartheid – a.k.a. Applied Cryptography Blog by Nicolas Courtois" description="" type="rss" version="RSS" htmlUrl="http://blog.bettercrypto.com/" xmlUrl="http://blog.bettercrypto.com/?feed=rss2"/>
+		<outline text="kel.bz" title="kel.bz" description="" type="rss" version="RSS" htmlUrl="https://kel.bz/" xmlUrl="https://kel.bz/index.xml"/>
+		<outline text="Kudelski Security Research" title="Kudelski Security Research" description="" type="rss" version="RSS" htmlUrl="https://research.kudelskisecurity.com/" xmlUrl="https://research.kudelskisecurity.com/feed/"/>
 		<outline text="Latacora" title="Latacora" description="" type="rss" version="RSS" htmlUrl="https://latacora.micro.blog/" xmlUrl="https://latacora.micro.blog/2019/07/16/the-pgp-problem.html/index.xml"/>
-		<outline text="TobTu News Feed" title="TobTu News Feed" description="" type="rss" version="RSS" htmlUrl="http://www.tobtu.com/" xmlUrl="http://www.tobtu.com/rssnews.php"/>
+		<outline text="Little Man In My Head" title="Little Man In My Head" description="" type="rss" version="RSS" htmlUrl="https://littlemaninmyhead.wordpress.com/" xmlUrl="https://littlemaninmyhead.wordpress.com/feed/"/>
+		<outline text="lvh" title="lvh" description="" type="rss" version="RSS" htmlUrl="https://www.lvh.io/" xmlUrl="https://www.lvh.io/rss.xml"/>
+		<outline text="malb::blog" title="malb::blog" description="" type="rss" version="RSS" htmlUrl="https://martinralbrecht.wordpress.com/" xmlUrl="https://martinralbrecht.wordpress.com/feed/"/>
+		<outline text="METASTATE" title="METASTATE" description="" type="rss" version="RSS" htmlUrl="https://research.metastate.dev/" xmlUrl="https://research.metastate.dev/rss/"/>
+		<outline text="On Cryptography and Security" title="On Cryptography and Security" description="" type="rss" version="RSS" htmlUrl="https://blog.susanka.eu/" xmlUrl="https://blog.susanka.eu/rss/"/>
 		<outline text="OpenSSL Blog" title="OpenSSL Blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.openssl.org/blog/atom.xml"/>
+		<outline text="Pomcor" title="Pomcor" description="" type="rss" version="RSS" htmlUrl="https://pomcor.com/" xmlUrl="https://pomcor.com/feed/"/>
+		<outline text="Random Oracle" title="Random Oracle" description="" type="rss" version="RSS" htmlUrl="https://randomoracle.wordpress.com/" xmlUrl="https://randomoracle.wordpress.com/feed/"/>
+		<outline text="Real World Cryptographers Podcast" title="Real World Cryptographers Podcast" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://feeds.buzzsprout.com/1393207.rss"/>
+		<outline text="Rot256 : Cryptography &amp; Other Random Bits." title="Rot256 : Cryptography &amp; Other Random Bits." description="" type="rss" version="RSS" htmlUrl="https://rot256.io/" xmlUrl="https://rot256.io/index.xml"/>
+		<outline text="Shevek's crypto stuff" title="Shevek's crypto stuff" description="" type="rss" version="RSS" htmlUrl="http://crypto.anarres.info/" xmlUrl="https://crypto.anarres.info/feed.xml"/>
 		<outline text="Signal Blog" title="Signal Blog" description="" type="rss" version="RSS" htmlUrl="https://signal.org/blog/" xmlUrl="https://whispersystems.org/blog/rss.xml"/>
-		<outline text="Daan Sprenkels" title="Daan Sprenkels" description="" type="rss" version="RSS" htmlUrl="https://dsprenkels.com/" xmlUrl="https://dsprenkels.com/feed.xml"/>
-		<outline text="Henry de Valence" title="Henry de Valence" description="" type="rss" version="RSS" htmlUrl="https://hdevalence.ca/blog/" xmlUrl="https://hdevalence.ca/blog/rss.xml"/>
-		<outline text="Bristol Cryptography Blog" title="Bristol Cryptography Blog" description="" type="rss" version="RSS" htmlUrl="http://bristolcrypto.blogspot.com/" xmlUrl="http://bristolcrypto.blogspot.com/feeds/posts/default"/>
+		<outline text="StarkWare - Medium" title="StarkWare - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/starkware?source=rss----4f99567ac65a---4" xmlUrl="https://medium.com/feed/starkware"/>
+		<outline text="Stories by Sergey Gorbunov on Medium" title="Stories by Sergey Gorbunov on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@sergeynog?source=rss-5085ffc6b019------2" xmlUrl="https://medium.com/feed/@sergeynog"/>
+		<outline text="thái" title="thái" description="" type="rss" version="RSS" htmlUrl="http://vnhacker.blogspot.com/" xmlUrl="http://vnhacker.blogspot.com/feeds/posts/default"/>
+		<outline text="The blog of Christopher A. Wood" title="The blog of Christopher A. Wood" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://chris-wood.github.io/atom.xml"/>
+		<outline text="The Call of the Open Sidewalk pgpfan" title="The Call of the Open Sidewalk pgpfan" description="" type="rss" version="RSS" htmlUrl="https://articles.59.ca/" xmlUrl="https://articles.59.ca/feed.php?num=10&amp;linkto=current&amp;content=html&amp;ns=pgpfan"/>
+		<outline text="The Cloudflare Blog" title="The Cloudflare Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.cloudflare.com/" xmlUrl="https://blog.cloudflare.com/rss/"/>
+		<outline text="Tim Taubert" title="Tim Taubert" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://timtaubert.de/atom.xml"/>
+		<outline text="tobi.rocks" title="tobi.rocks" description="" type="rss" version="RSS" htmlUrl="https://tobi.rocks/" xmlUrl="https://tobi.rocks/feed/"/>
+		<outline text="TobTu News Feed" title="TobTu News Feed" description="" type="rss" version="RSS" htmlUrl="http://www.tobtu.com/" xmlUrl="http://www.tobtu.com/rssnews.php"/>
+		<outline text="Tony Arcieri" title="Tony Arcieri" description="" type="rss" version="RSS" htmlUrl="https://tonyarcieri.com/" xmlUrl="https://tonyarcieri.com/feed"/>
 		<outline text="top scoring links : crypto" title="top scoring links : crypto" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/crypto/top?t=month" xmlUrl="https://www.reddit.com/r/crypto/top.rss?t=month"/>
+		<outline text="Trail of Bits Blog" title="Trail of Bits Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.trailofbits.com/" xmlUrl="http://blog.trailofbits.com/feed/"/>
+		<outline text="Underhanded Crypto Contest" title="Underhanded Crypto Contest" description="" type="rss" version="RSS" htmlUrl="https://underhandedcrypto.com/" xmlUrl="https://underhandedcrypto.com/feed/"/>
+		<outline text="Zero Knowledge" title="Zero Knowledge" description="" type="rss" version="RSS" htmlUrl="https://www.zeroknowledge.fm/" xmlUrl="https://www.zeroknowledge.fm/rss"/>
 	</outline>
 </body>
 </opml>
