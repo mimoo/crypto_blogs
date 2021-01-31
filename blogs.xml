@@ -39,6 +39,7 @@
 		<outline text="lvh" title="lvh" description="" type="rss" version="RSS" htmlUrl="https://www.lvh.io/" xmlUrl="https://www.lvh.io/rss.xml"/>
 		<outline text="malb::blog" title="malb::blog" description="" type="rss" version="RSS" htmlUrl="https://martinralbrecht.wordpress.com/" xmlUrl="https://martinralbrecht.wordpress.com/feed/"/>
 		<outline text="METASTATE" title="METASTATE" description="" type="rss" version="RSS" htmlUrl="https://research.metastate.dev/" xmlUrl="https://research.metastate.dev/rss/"/>
+		<outline text="neuromancer.sk" title="neuromancer.sk" description="" type="rss" version="RSS" htmlUrl="https://neuromancer.sk" xmlUrl="https://neuromancer.sk/feed.xml"/>
 		<outline text="On Cryptography and Security" title="On Cryptography and Security" description="" type="rss" version="RSS" htmlUrl="https://blog.susanka.eu/" xmlUrl="https://blog.susanka.eu/rss/"/>
 		<outline text="OpenSSL Blog" title="OpenSSL Blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.openssl.org/blog/atom.xml"/>
 		<outline text="Pomcor" title="Pomcor" description="" type="rss" version="RSS" htmlUrl="https://pomcor.com/" xmlUrl="https://pomcor.com/feed/"/>
