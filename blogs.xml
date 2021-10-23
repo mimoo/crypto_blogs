@@ -22,6 +22,7 @@
 		<outline text="David Wong" title="David Wong" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCY1UW1QQZ2xzdBEEep8R0nA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1UW1QQZ2xzdBEEep8R0nA"/>
 		<outline text="David Wong | Cryptologie | HTML" title="David Wong | Cryptologie | HTML" description="" type="rss" version="RSS" htmlUrl="http://www.cryptologie.net/" xmlUrl="http://cryptologie.net/feed/index/html"/>
 		<outline text="Dhole Moments" title="Dhole Moments" description="" type="rss" version="RSS" htmlUrl="https://soatok.blog/" xmlUrl="https://soatok.blog/feed/"/>
+        <outline text="ellipticnews" title="The Elliptic Curve Cryptography blog" description="" type="rss" version="RSS" htmlUrl="https://ellipticnews.wordpress.com/" xmlUrl="https://ellipticnews.wordpress.com/feed/"/>
 		<outline text="Filippo.io" title="Filippo.io" description="" type="rss" version="RSS" htmlUrl="https://blog.filippo.io/" xmlUrl="https://blog.filippo.io/rss/"/>
 		<outline text="Financial Cryptography" title="Financial Cryptography" description="" type="rss" version="RSS" htmlUrl="http://financialcryptography.com/" xmlUrl="https://financialcryptography.com/index.rdf"/>
 		<outline text="Frank DENIS random thoughts." title="Frank DENIS random thoughts." description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://00f.net/atom.xml"/>
