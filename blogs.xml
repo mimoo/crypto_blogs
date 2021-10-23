@@ -12,6 +12,7 @@
 		<outline text="BrainOverfl0w" title="BrainOverfl0w" description="" type="rss" version="RSS" htmlUrl="https://www.fredericjacobs.com/blog/" xmlUrl="http://www.fredericjacobs.com/blog/feed.xml"/>
 		<outline text="Bristol Cryptography Blog" title="Bristol Cryptography Blog" description="" type="rss" version="RSS" htmlUrl="http://bristolcrypto.blogspot.com/" xmlUrl="http://bristolcrypto.blogspot.com/feeds/posts/default"/>
 		<outline text="Bulletproof TLS Newsletter" title="Bulletproof TLS Newsletter" description="" type="rss" version="RSS" htmlUrl="https://www.feistyduck.com/bulletproof-tls-newsletter/" xmlUrl="https://www.feistyduck.com/bulletproof-tls-newsletter/feed"/>
+        <outline text="Chosen Plaintext" title="Chosen Plaintext" description="" type="rss" version="RSS" htmlUrl="https://www.chosenplaintext.ca/" xmlUrl="https://www.chosenplaintext.ca/feeds/posts/default"/>
 		<outline text="Command Line Fanatic" title="Command Line Fanatic" description="" type="rss" version="RSS" htmlUrl="http://www.commandlinefanatic.com/index.html" xmlUrl="http://commandlinefanatic.com/rss.xml"/>
 		<outline text="cr.yp.to blog" title="cr.yp.to blog" description="" type="rss" version="RSS" htmlUrl="http://blog.cr.yp.to/" xmlUrl="http://blog.cr.yp.to/feed.application=xml"/>
 		<outline text="Cryptography FM" title="Cryptography FM" description="" type="rss" version="RSS" htmlUrl="https://www.cryptography.fm/" xmlUrl="https://www.cryptography.fm/rss"/>
