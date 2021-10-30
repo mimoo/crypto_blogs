@@ -25,6 +25,7 @@
 		<outline text="Filippo.io" title="Filippo.io" description="" type="rss" version="RSS" htmlUrl="https://blog.filippo.io/" xmlUrl="https://blog.filippo.io/rss/"/>
 		<outline text="Financial Cryptography" title="Financial Cryptography" description="" type="rss" version="RSS" htmlUrl="http://financialcryptography.com/" xmlUrl="https://financialcryptography.com/index.rdf"/>
 		<outline text="Frank DENIS random thoughts." title="Frank DENIS random thoughts." description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://00f.net/atom.xml"/>
+        <outline text="grodic.net" title="grocid.net - scribbles from past, present and possibly future" description="" type="rss" version="RSS" htmlUrl="https://grocid.net/" xmlUrl="https://grocid.net/atom.xml"/>
 		<outline text="Hanno's blog" title="Hanno's blog" description="" type="rss" version="RSS" htmlUrl="https://blog.hboeck.de/" xmlUrl="https://blog.hboeck.de/feeds/index.rss2"/>
 		<outline text="Henry de Valence :: Blog" title="Henry de Valence :: Blog" description="" type="rss" version="RSS" htmlUrl="http://www.hdevalence.ca/" xmlUrl="https://hdevalence.ca/blog/rss.xml"/>
 		<outline text="IACR News Updates" title="IACR News Updates" description="" type="rss" version="RSS" htmlUrl="https://www.iacr.org/news/" xmlUrl="http://www.iacr.org/news/rss"/>
